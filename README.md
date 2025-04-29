@@ -82,7 +82,7 @@ AI MIKU 是一个基于多智能体（Multiagent）技术的创新型 AI 搜索�
 
 ## MCP Server 配置示例
 
-### studio
+### studio (cursor,cline等）
 
 ```json
 {
@@ -103,7 +103,7 @@ AI MIKU 是一个基于多智能体（Multiagent）技术的创新型 AI 搜索�
 }
 ```
 
-### sse
+### sse (cursor,cline等）
 
 ```json
 {
@@ -114,6 +114,12 @@ AI MIKU 是一个基于多智能体（Multiagent）技术的创新型 AI 搜索�
   }
 }
 ```
+
+### sse auth 鉴权配置示例
+cherry Studio示例：
+
+<img width="1080" alt="image" src="https://github.com/user-attachments/assets/e924c2c8-6523-4400-9a29-6408ed24c456" />
+
 
 ---
 
