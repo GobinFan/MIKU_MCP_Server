@@ -1,4 +1,13 @@
+<div align="center">
+    <img alt="vision_agent" height="200px" src="https://hellomiku.com/img/logo.png"> 
+      
 # MIKU Search MCP
+中文 | [**English**](https://github.com/GobinFan/Miku_Spider/blob/main/README_EN.md)
+
+</div>
+
+## 关于MIKU
+AI MIKU是一个基于多智能体(Multiagent)技术的创新AI搜索引擎，致力于为用户提供准确、个性化和实时的搜索结果。作为MIKU生态系统的一部分，Miku Spider专注于高效爬取和处理微信公众号文章。了解更多关于MIKU的信息，请访问：[hellomiku.com](https://hellomiku.com)
 
 ## 主要功能
 
