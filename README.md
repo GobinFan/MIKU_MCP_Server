@@ -1,22 +1,21 @@
 <div align="center">
     <img alt="vision_agent" height="200px" src="https://hellomiku.com/img/logo.png"> 
       
-# MIKU Search MCP
+# MIKU Search MCP Server
 中文 | [**English**](https://github.com/GobinFan/Miku_Spider/blob/main/README_EN.md)
 
 </div>
 
-## 关于MIKU
-AI MIKU是一个基于多智能体(Multiagent)技术的创新AI搜索引擎，致力于为用户提供准确、个性化和实时的搜索结果。作为MIKU生态系统的一部分，Miku Spider专注于高效爬取和处理微信公众号文章。了解更多关于MIKU的信息，请访问：[hellomiku.com](https://hellomiku.com)
+## 关于MIKU 
+
+AI MIKU 是一个基于多智能体（Multiagent）技术的创新型 AI 搜索引擎，致力于为用户提供准确、个性化和实时的搜索体验。Miku MCP Server 作为 MIKU 生态系统的核心服务组件，负责智能搜索请求的处理与分发，支持多语言和多种搜索模式，便于开发者集成和扩展。  
+了解更多关于 MIKU 的信息，请访问：[hellomiku.com](https://hellomiku.com)
 
 ## 主要功能
 
 - 基于 AI 的智能搜索服务，支持多语言（简体中文、繁体中文、英文、日文、韩文、俄文、阿拉伯文）。
 - 支持简单搜索（simple_search）和深度搜索（deep_search）两种模式，满足不同场景需求。
 - 通过 API KEY 鉴权，保障数据安全。
-- 支持异步请求，提升搜索效率。
-- 返回结构化 JSON 格式的搜索结果，便于集成与二次开发。
-- 可自定义搜索内容（query）、搜索模式（search_mode）、语言模式（language_mode）。
 
 ---
 
