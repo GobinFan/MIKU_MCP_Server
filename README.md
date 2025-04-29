@@ -2,7 +2,7 @@
     <img alt="vision_agent" height="200px" src="https://hellomiku.com/img/logo.png"> 
       
 # MIKU Search MCP Server
-中文 | [**English**](https://github.com/GobinFan/Miku_Spider/blob/main/README_EN.md)
+中文 | [**English**](https://github.com/GobinFan/MIKU_MCP_Server/blob/main/README_EN.md)
 
 </div>
 
